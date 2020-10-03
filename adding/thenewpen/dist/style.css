@@ -1,0 +1,18 @@
+h1 {
+  color: #ff6b45;
+}
+h2 {
+  color: #8928da;
+}
+ul {
+  list-style-type: square;
+}
+ol {
+  list-style-type: upper-roman;
+}
+.undrl {
+  text-decoration: underline;
+}
+.colo {
+  color: #ae54ab;
+}
