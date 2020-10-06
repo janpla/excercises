@@ -1,3 +1,4 @@
 $("#addBt").click(() => {
-    $("#list").append("<p>" + $("#input").val() + "</p>");
+    $("#list").append("<li>" + $("#input").val() + "</li>");
+    $("#input").val("");
 })
